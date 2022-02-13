@@ -4,6 +4,6 @@ import java.util.Set;
 
 public class RolesDeck {
     public Set<Role> availableRoles() {
-        return Set.of(Role.PHYSICIAN);
+        return Set.of(Role.values());
     }
 }

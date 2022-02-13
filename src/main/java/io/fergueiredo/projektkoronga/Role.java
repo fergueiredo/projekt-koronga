@@ -1,5 +1,5 @@
 package io.fergueiredo.projektkoronga;
 
 public enum Role {
-    PHYSICIAN
+    QUARANTINE_EXPERT, PHYSICIAN
 }

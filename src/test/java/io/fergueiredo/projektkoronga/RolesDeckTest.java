@@ -16,4 +16,13 @@ public class RolesDeckTest {
 
         assertThat(roles).contains(Role.PHYSICIAN);
     }
+
+    @Test
+    void givenNewRolesDeck_whenGettingAvailableRoles_thenQuarantineExpertShouldExists() {
+        RolesDeck rolesDeck = new RolesDeck();
+
+        Set<Role> roles = rolesDeck.availableRoles();
+
+        assertThat(roles).contains(Role.QUARANTINE_EXPERT);
+    }
 }
