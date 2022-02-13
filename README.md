@@ -30,10 +30,9 @@ The set of infection cards removed from the game.
 This section shows the outbreak level.
 
 ## Mechanics
-
 ### Goal
-The players must create the cure for all variants before the **Action Deck** runs out of cards and the **Outbreak** 
-level reaches level 7. 
+The players must create the cure for all variants before the **Action Deck** runs out of cards and the **Outbreak 
+level** reaches level 7. 
 
 ### Preparing the game
 Before the game starts, each of the participants will receive a role with specific actions and 2 action cards.
@@ -134,6 +133,10 @@ The *Logistic Expert* can:
 ### Scientist
 The *Scientist* can use 1 activity point to create a cure discarding only 4 action cards of the same variant.
 
+### Contingency Planner
+The *Contingency Planner* can use 1 activity point to retrieve one discard action card.
+When this card is used, it is removed from the game. Limit of 1 card at a time.
+
 ## Variants
 The players must cure the four following variants:
 - (α) Alpha - United Kingdom
@@ -141,4 +144,70 @@ The players must cure the four following variants:
 - (δ) Delta - India
 - (o) Omicron - South Africa
 
-Work in progress...
+## Region
+Europe and North America - Alpha  
+North and South America - Gamma  
+Eastern Asia and Oceanic - Delta  
+Africa and Western Asia - Omicron  
+
+### North America
+Toronto - 6,312,974  
+Montreal - 4,276,526  
+Los Angeles - 3,985,516  
+New York - 8,177,025  
+Chicago - 2,671,635  
+Mexico city - 22,085,140  
+Port Au Prince - 2,915,276  
+San Juan - 2,442,512  
+
+### South America
+Sao Paulo - 22,429,800  
+Buenos Aires - 15,369,919  
+Bogota - 11,344,312  
+Lima - 11,044,607  
+Santiago - 6,856,939  
+Asuncion - 3,452,315  
+Caracas - 2,956,813  
+Fortaleza - 4,163,953  
+
+### Europe
+Paris - 11,142,303  
+London - 9,540,576  
+Lisbon - 2,986,162  
+Berlin - 3,570,750  
+Rome - 4,297,877  
+Istanbul - 15,636,243  
+Bucharest - 1,785,294  
+Kiev - 3,010,209  
+
+### Africa
+Marrakesh - 1,033,050  
+Cairo - 21,750,020
+Abidjan - 5,515,790  
+Khartoum - 6,160,327  
+Kinshasa - 15,628,085  
+Dar es Salaam - 7,404,689  
+Nairobi - 5,118,844
+Johannesburg - 6,065,354
+
+### Asia
+Moscow - 12,640,818  
+Riyadh - 7,538,200  
+Tehran - 9,381,546  
+Almaty - 1,958,135
+
+Tokyo - 37,274,000  
+Delhi - 32,065,760  
+Shanghai - 28,516,904  
+Dhaka - 28,516,904  
+
+Singapore - 6,039,577  
+Jakarta - 11,074,811  
+Manila - 14,406,059  
+Xinbei - 4,470,672
+Bangkok - 10,899,698  
+Ho Chi Minh - 9,077,158  
+
+### Oceania
+Sydney - 5,056,571  
+Auckland - 1,652,341  
